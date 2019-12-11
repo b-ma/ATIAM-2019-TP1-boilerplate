@@ -1,6 +1,7 @@
 
 /**
- * This function encapsulate the logic required to `resume`
+ * this function encapsulate some logic required to `resume` the given
+ * audio context.
  */
 function resumeContext(audioContext) {
   // for compatibility with Safari
